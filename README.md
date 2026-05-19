@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dinesh Kachhot 👋</h1>
 
 <p align="center">
-  <strong>Staff Mobile Engineer · React Native (New Architecture, Fabric, TurboModules, JSI) · AI Integration · 13+ Years</strong>
+  <strong>Senior Mobile Engineer · React Native (New Architecture, Fabric, TurboModules, JSI) · AI Integration · 13+ Years</strong>
 </p>
 
 <p align="center">
